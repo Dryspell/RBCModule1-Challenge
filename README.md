@@ -1,7 +1,5 @@
 # RBCModule1-Challenge
 
----
-
 ## Overview of Project
 This project exemplifies a basic analysis on a dataset from the crowd-funding website **Kickstarter.com**. In this scenario, our client *Louise* is planning to raise money for several theatre productions and in doing so, would like to "game the system", that is, she would like to determine the best timing to start a fundraising campaign and the best amount of funds to request from the crowd. Here best is defined as *Likelihood of Success Based on Historical Trends*.
 
