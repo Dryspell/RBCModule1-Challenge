@@ -11,14 +11,14 @@ Our results are centered upon two data fields: the launch date of the campaign a
 ## Launch Date Correlation
 As seen in the graph below, a great many theatre campaigns were initiated in the month of May during the years of our dataset, however, this may be slightly deceiving in regards to success rates since we see the failure line of the graph nearly halfway between the success line and the x-axis throughout the graph. 
 
-![Theatre Outcomes Vs Launch Date](..\Resources\Theater_Outcomes_vs_Launch)
+![Theatre Outcomes Vs Launch Date](Resources/Theater_Outcomes_vs_Launch)
 
 Indeed, some additional computation shows that the success rate in May was 66.8% which is the highest amongst the months but is worth comparing to April (62.8%), June (65.4%), and July (63.0%). When considering initiating her campaign, Louise should take into account these other months since there are reduced numbers of campaigns initiated during these months so it may be more likely that hers is not "lost in the weeds". 
 
 ## Outcomes based on Funding Goals
 Our second summary is based on the amount of funds sought versus their success, see the graph below. 
 
-![Outcomes Based on Goals](..\Resources\Outcomes_vs_Goals)
+![Outcomes Based on Goals](Resources/Outcomes_vs_Goals)
 
 As the reader can see, as the amount of funding requested increases, the success rate drops off dramatically. The success rate being greater than 50% for the values of *35000 to 39999* and *40000 to 44999* is effectively a statistical anomaly since we have so few data points (less than 10) for these categories past the $25,000 mark.
 
