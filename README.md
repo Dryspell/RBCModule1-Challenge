@@ -10,6 +10,7 @@ Our results are centered upon two data fields: the launch date of the campaign a
 As seen in the graph below, a great many theatre campaigns were initiated in the month of May during the years of our dataset, however, this may be slightly deceiving in regards to success rates since we see the failure line of the graph nearly halfway between the success line and the x-axis throughout the graph. 
 
 ![Theatre Outcomes Vs Launch Date](https://github.com/Dryspell/RBCModule1-Challenge/blob/master/Resources/Outcomes_vs_Goals.png)
+![Theatre Outcomes Vs Launch Date](./Resources/Outcomes_vs_Goals.png)
 
 Indeed, some additional computation shows that the success rate in May was 66.8% which is the highest amongst the months but is worth comparing to April (62.8%), June (65.4%), and July (63.0%). When considering initiating her campaign, Louise should take into account these other months since there are reduced numbers of campaigns initiated during these months so it may be more likely that hers is not "lost in the weeds". 
 
